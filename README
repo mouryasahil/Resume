@@ -1,0 +1,7 @@
+# Sahil Mourya — Resume Website
+
+Static site for GitHub Pages. Edit `index.html` and `styles.css`. To deploy:
+
+- Push to main.
+- Settings → Pages → Deploy from branch → main.
+- Optional: add custom domain in Pages settings and update DNS (CNAME/A).
